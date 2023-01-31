@@ -7,7 +7,7 @@ An Artificial Intelligence Student 🦾🤖, Intrested in Machine Learning and P
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/endlessReyy?logo=twitter&style=for-the-badge&https://twitter.com/endlessReyy)](https://twitter.com/endlessReyy) 
+[![Twitter Badge](https://img.shields.io/twitter/follow/ritajalmutairii?logo=twitter&style=for-the-badge&https://twitter.com/ritajalmutairii)](https://twitter.com/ritajalmutairii) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritaj-almutairi-566b16210/)  [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:riitaaj5@gmail.com)
 
@@ -17,7 +17,7 @@ An Artificial Intelligence Student 🦾🤖, Intrested in Machine Learning and P
 - 🔭 I’m currently studying at **@University of Jeddah**🏫
 
 
-- 📫 How to reach me: **[Email](mailto:riitaaj5@gmail.com)**
+- 📫 How to reach me: **[Email](mailto:ritajalmutairii@gmail.com)**
 
 #### Github Stats
 
