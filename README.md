@@ -1,24 +1,18 @@
-## Hi, I'm Ritaj <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" height ="32px" alt="hi">
-An Artificial Intelligence Student 🦾🤖, Intrested in Machine Learning and Programming👩🏻‍💻. 
+<h1 align="center">
+  <b></b>
+  Hi, I'm Ritaj!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-#### Profile Visits 
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=RitajAlmutairi.RitajAlmutairi)
+A senior student majoring in Computer Science and Artificial Intelligence🤖, Intrested in programming, Machine Learning and Data in general👩🏻‍💻 currently studying at **@University of Jeddah**🔭
 
-
-:mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/ritajalmutairii?logo=twitter&style=for-the-badge&https://twitter.com/ritajalmutairii)](https://twitter.com/ritajalmutairii) 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritaj-almutairi-566b16210/)  [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:riitaaj5@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritaj-almutairi-566b16210/)  [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ritajalmutairii@gmail.com)
 
 
-
-
-- 🔭 I’m currently studying at **@University of Jeddah**🏫
-
-
-- 📫 How to reach me: **[Email](mailto:ritajalmutairii@gmail.com)**
-
+#
 #### Github Stats
 
 ![Ritaj's github stats](https://github-readme-stats.vercel.app/api?username=ritajalmutairi&count_private=true&theme=tokyonight&hide=contribs,prs)
@@ -26,16 +20,17 @@ An Artificial Intelligence Student 🦾🤖, Intrested in Machine Learning and P
 </details>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+#### Tools and Languages
 
-</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle" alt="kaggle" width="40" height="40"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RitajAlmutairi" alt="RitajAlmutairi" /></p>
-
-
-
+</div>
