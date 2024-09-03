@@ -6,7 +6,7 @@
 </h1>
 
 <!--Connect with me -->
-#### Connect with me
+## Connect with me
 <div>
  
   <a href="https://www.linkedin.com/in/ritaj-m-almutairi-566b16210" target="_blank">
@@ -18,7 +18,7 @@
   
 </div>
 <!--Tools and Languages -->
-#### Tools and Languages
+## Tools and Languages
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>
@@ -31,7 +31,7 @@
 </div>
 
 <!--Status -->
-#### Github Stats
+## Github Stats
 ![Ritaj's github stats](https://github-readme-stats.vercel.app/api?username=ritajalmutairi&count_private=true&theme=tokyonight&hide=contribs,prs)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritajalmutairi&layout=compact&theme=tokyonight)
 ![Snake animation](https://raw.githubusercontent.com/RitajAlmutairi/RitajAlmutairi/output/github-contribution-grid-snake-dark.svg)
