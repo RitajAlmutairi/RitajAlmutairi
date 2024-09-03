@@ -35,4 +35,4 @@
 ![Ritaj's github stats](https://github-readme-stats.vercel.app/api?username=ritajalmutairi&count_private=true&theme=tokyonight&hide=contribs,prs)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritajalmutairi&layout=compact&theme=tokyonight)
 ![Snake animation](https://raw.githubusercontent.com/RitajAlmutairi/RitajAlmutairi/output/github-contribution-grid-snake-dark.svg)
----
+
